@@ -1,0 +1,9 @@
+{
+  "Keymap": {
+    "C-u": "peco.Cancel"
+  },
+  "Style": {
+    "Selected": ["underline", "", "red"],
+    "Matched": ["yellow"]
+  }
+}
